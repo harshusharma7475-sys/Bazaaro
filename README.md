@@ -1,0 +1,2 @@
+# Bazaaro
+Bajaru shopping app
